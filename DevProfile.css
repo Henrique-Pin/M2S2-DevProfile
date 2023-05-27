@@ -1,0 +1,38 @@
+#cabeçario{
+    height: 390px;
+    width: 700px;
+    margin-left: 400px;
+}
+
+#walberson{
+    height: 250px;
+    margin-left: 223px;
+    border-style: solid;
+    border-radius: 1000px;
+}
+
+#titulo{
+    color: green;
+    text-align: center;
+
+}
+#idade{
+    color: green;
+    text-align: center;
+    margin-top:9px ;
+}
+#p1{
+text-align: center;
+}
+#imagens{
+    display: flex;
+    justify-content: space-evenly;
+    height: 40px;
+    width: 400px;
+    margin-left: 555px;
+}
+.img{
+    height: 30px;
+    width: 100px;
+    margin-top: 5px;
+}
